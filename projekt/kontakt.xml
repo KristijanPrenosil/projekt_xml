@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kontakt>
+    <lok>
+        <lokacija>Zagrebačka ulica 12, Zagreb</lokacija>
+        <email>firma@gmail.com</email>
+        <broj>+385 91 111 1111</broj>
+    </lok>
+    <lok>
+        <lokacija>Sheikh Zayed Road 14, Dubai</lokacija>
+        <email>dubaifirma@gmail.com</email>
+        <broj>+971 95 111 1111</broj>
+    </lok>
+</kontakt>

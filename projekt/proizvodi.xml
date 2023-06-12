@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user id="1">
+    <ime>RTX 4070 dual</ime>
+    <cijena>€799</cijena>
+    <datum>16.4.2023.</datum>
+    <vrsta>Grafička kartica</vrsta>
+  </user>
+  <user id="2">
+    <ime>i5-13400</ime>
+    <cijena>€299</cijena>
+    <datum>13.1.2023.</datum>
+    <vrsta>Procesor</vrsta>
+  </user>
+  <user id="3">
+    <ime>Ryzen 7 7800X3D</ime>
+    <cijena>€449</cijena>
+    <datum>6.4.2023.</datum>
+    <vrsta>Procesor</vrsta>
+  </user>
+  <user id="4">
+    <ime>Ryzen 9 7950X3D</ime>
+    <cijena>€699</cijena>
+    <datum>28.2.2023.</datum>
+    <vrsta>Procesor</vrsta>
+  </user>
+  <user id="5">
+    <ime>Radeon RX 7900XTX</ime>
+    <cijena>€979.99</cijena>
+    <datum>13.12.2022.</datum>
+    <vrsta>Grafička kartica</vrsta>
+  </user>
+  <user id="6">
+    <ime>SteelSeries Aerox 5 Wireless</ime>
+    <cijena>€117.49</cijena>
+    <datum>12.5.2022.</datum>
+    <vrsta>Miš</vrsta>
+  </user>
+</users>
